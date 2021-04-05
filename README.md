@@ -1,1 +1,1 @@
-# DSC530Week3
+# DSC 530 Exercises Week3
